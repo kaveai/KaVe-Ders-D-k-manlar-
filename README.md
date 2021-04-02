@@ -1,7 +1,7 @@
 # KaVe-Ders-Dokumanlari
 
 
-<div style="text-align:center"><img src="image/kave.png" /></div>
+<div style="text-align:center"><img src="image/kave1.PNG" /></div>
 
 
 | Tarih  | Konu | Anlatıcı | Dokuman Linki |
