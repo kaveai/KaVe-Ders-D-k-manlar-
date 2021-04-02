@@ -3,6 +3,7 @@
 
 <div style="text-align:center"><img src="image/kave1.PNG" /></div>
 
+* Bu repositoryde Ka|Ve yapay zeka derslerimiz kapsamında kullanılan ders materyallerinin linkleri paylaşılacaktır. 
 
 | Tarih  | Konu | Anlatıcı | Dokuman Linki |
 | -----:|-----:|-----:|-----:|
