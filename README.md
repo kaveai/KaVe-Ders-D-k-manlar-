@@ -8,6 +8,7 @@
 
 | Tarih  | Konu | Anlatıcı | Dokuman Linki |
 | -----:|-----:|-----:|-----:|
+| 15.04.2021   | Machine Learning Model Deployment |  Yunus Emre Gündoğmuş | [Github](https://github.com/kaveai/KaVe-Deployment-Examples)|
 | 02.04.2021   | CNN and Denoising Autoencoder with Pytorch |  Akif Emre Çapoğlu  | [Github](https://github.com/capogluuu/Denoising-Autoencoders-with-Pytorch)|
 
 
